@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [coroshop](https://github.com/JoanR99/coroshop-server)
+- 🔭 I’m currently working on [Time Killer](https://github.com/JoanR99/time-killer)
 
-- 🌱 I’m currently learning **Next.js, Django and Tailwind**
+- 🌱 I’m currently learning **Vue.js and FastApi**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-joan-romero.vercel.app/](https://portfolio-joan-romero.vercel.app/)
 
 - 💬 Ask me about **React, Express**
 
