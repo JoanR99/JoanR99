@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Time Killer](https://github.com/JoanR99/time-killer)
 
-- 🌱 I’m currently learning **Vue.js and FastApi**
+- 🌱 I’m currently learning **Docker and Django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-joan-romero.vercel.app/](https://portfolio-joan-romero.vercel.app/)
 
