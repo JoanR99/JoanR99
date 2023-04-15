@@ -1,4 +1,10 @@
-<img src="./banner.png" />
+<img 
+  src="./banner.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; aspect-ratio: 16 / 9;"
+/>
 
 <br />
 
