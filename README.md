@@ -1,6 +1,4 @@
 ![Header](./banner.png)
-<h1 align="center">Hi 👋, I'm Joan</h1>
-<h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 - 🔭 I’m currently working on [Time Killer](https://github.com/JoanR99/time-killer)
 
