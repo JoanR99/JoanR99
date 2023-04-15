@@ -3,11 +3,12 @@
 <br />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanR99" />
+
 - 🔭 I’m currently working on [Time Killer](https://github.com/JoanR99/time-killer)
 
 - 🌱 I’m currently learning **Docker and Django**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-joan-romero.vercel.app/](https://portfolio-joan-romero.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-joan-romero.vercel.app/)
 
 - 💬 Ask me about **React, Express**
 
