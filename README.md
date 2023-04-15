@@ -1,4 +1,4 @@
-![Header](./profile-banner.png)
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
