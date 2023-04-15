@@ -1,4 +1,4 @@
-![Header](./banner.png)
+<img align="center" src="./banner.png" />
 
 <br />
 
